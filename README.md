@@ -1,2 +1,0 @@
-# homework
-QuickStart Homework Repository
