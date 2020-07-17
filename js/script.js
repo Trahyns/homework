@@ -23,5 +23,4 @@ function moveForward() {
 function startPlayback() {
     setTimeout(moveForward, slideInterval);
 }
-
-startPlayback;
+startPlayback();
