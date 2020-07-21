@@ -60,7 +60,7 @@ main {
 }
 
 body {
-    font-family: 'News Cycle';
+    font-family: 'News Cycle' !important;
 }
 
 header {
